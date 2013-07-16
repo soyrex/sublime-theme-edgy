@@ -2,6 +2,8 @@ Edgy Theme for Sublime Text 2
 =============================
 Sublime Edgy Theme - loosely based on the Adobe implementation of Brackets (http://brackets.io/). Credit to Domenico Carbotta for creating the IDLE theme, which was used as a basis for this theme.
 
+Project Page: http://soyrex.com/projects/edgy-theme-sublime-text-2
+
 Screenshot:
 -----------
 ![Screenshot](https://raw.github.com/soyrex/sublime-theme-edgy/master/img/sublime-theme-edgy-ss.png)
