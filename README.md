@@ -4,7 +4,7 @@ Sublime Edgy Theme - loosely based on the Adobe implementation of Brackets (http
 
 Screenshot:
 -----------
-![Screenshot](https://github.com/soyrex/sublime-theme-edgy/blob/master/img/sublime-theme-edgy-ss.png)
+![Screenshot](https://raw.github.com/soyrex/sublime-theme-edgy/master/img/sublime-theme-edgy-ss.png)
 
 I find this theme a little cleaner than the big curvy sublime tabs. Also, I also prefer the sidebar to be simple and clean.
 
