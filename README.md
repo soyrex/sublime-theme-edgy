@@ -1,6 +1,7 @@
 Edgy Theme for Sublime Text 2
 =============================
 Sublime Edgy Theme - loosely based on the Adobe implementation of Brackets (http://brackets.io/).
+Credit to Domenico Carbotta for creating the IDLE theme, which was used as a basis for this theme.
 
 I find this theme a little cleaner than the big curvy sublime tabs. Also, I also prefer the sidebar to be simple and clean.
 
@@ -9,3 +10,7 @@ The theme looks best with a light code colour scheme - however it will still wor
 Installation
 ------------
 Basically: clone the git repo into your Packages folder for Sublime - then in your preferences, set the theme to Edgy.
+
+Note 
+-----
+I have my Sublime set up with tabs on and the sidebar visible. I hide the minimap - it's not really useful ;).

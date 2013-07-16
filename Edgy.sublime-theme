@@ -58,7 +58,7 @@
         "settings": ["!show_tab_close_buttons"],
         "attributes": ["dirty","selected"],
         "layer0.texture": "sublime-theme-edgy/img/tab-dirty-active.png"
-    }, 
+    },  
 
 //
 // TABS (HIDDEN)
@@ -379,7 +379,8 @@
 
     {
         "class": "minimap_control",
-        "viewport_color": [0, 0, 0, 35]
+        "viewport_color": [100, 200, 0, 40],
+        "color": [100,100,100]
     },
 
 //
