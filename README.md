@@ -9,7 +9,10 @@ The theme looks best with a light code colour scheme - however it will still wor
 
 Installation
 ------------
-Basically: clone the git repo into your Packages folder for Sublime - then in your preferences, set the theme to Edgy.
+Basically: clone the git repo into your Packages folder for Sublime - then in your preferences, set the theme to Edgy - i also include a colour scheme - which is basically the IDLE one (with possibly a couple of modifications - again credit to Domenico Carbotta). So in your general preferences you'll need something like:
+
+	"color_scheme": "Packages/sublime-theme-edgy/Edgy.tmTheme",
+	"theme": "Edgy.sublime-theme"
 
 Note 
 -----
