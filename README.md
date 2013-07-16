@@ -1,7 +1,10 @@
 Edgy Theme for Sublime Text 2
 =============================
-Sublime Edgy Theme - loosely based on the Adobe implementation of Brackets (http://brackets.io/).
-Credit to Domenico Carbotta for creating the IDLE theme, which was used as a basis for this theme.
+Sublime Edgy Theme - loosely based on the Adobe implementation of Brackets (http://brackets.io/). Credit to Domenico Carbotta for creating the IDLE theme, which was used as a basis for this theme.
+
+Screenshot:
+-----------
+![Screenshot](https://github.com/soyrex/sublime-theme-edgy/blob/master/img/sublime-theme-edgy-ss.png)
 
 I find this theme a little cleaner than the big curvy sublime tabs. Also, I also prefer the sidebar to be simple and clean.
 
